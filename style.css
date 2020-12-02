@@ -1,0 +1,44 @@
+.tag {
+    border-radius: 20px;
+    border: 2px solid greenyellow;
+    width: 400px;
+    height: 250px;
+  }
+  
+  header {
+    background: greenyellow;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    padding: 2px;
+  }
+  
+  .hello {
+    font-family: palatino-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 60px;
+    color: white;
+  }
+  
+  .mynameis {
+    font-family: palatino-serif;
+    font-weight: normal;
+    text-align: center;
+    font-size: 30px;
+  }
+
+  .actualname {
+    font-family: Snell Roundhand, cursive;
+    font-weight: normal;
+    font-style: italic;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: ;
+    font-size: 50px;
+  }
+  
+  .dottedline {
+    border-top: 3px dotted black;
+    margin-top: 25px;
+    text-align: center;
+  }
